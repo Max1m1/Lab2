@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    margin: auto
+}
+#left{
+    background-color: yellow;
+}
+#right{
+    background-color: white;
+}
+#top{
+    background-color: blue;
+}
+#bottom{
+    background-color:brown;
+}
+#block_1{
+    background: white;
+    height: 50px;
+    width:20%;
+    margin-left:10%;
+}

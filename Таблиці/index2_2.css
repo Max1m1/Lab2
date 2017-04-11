@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    margin: auto
+}
+#left{
+    background-color: yellow;
+}
+#right{
+    background-color: yellow;
+}
+#top{
+    background-color: blue;
+}
+#bottom{
+    background-color: blue;
+}

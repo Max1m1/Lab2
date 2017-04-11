@@ -1,0 +1,51 @@
+body{
+	position: relative;
+	margin: 0;
+}
+.vertical {
+	display:inline-block;
+	float:right;
+	min-height:1000px;
+	min-width:85%;
+}
+.container {
+	margin-top:0;
+	position:relative;
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 90%;
+}
+.header{
+	min-width:100%;
+	min-height:100px;
+	background:blue;
+}
+.header1{
+	min-width:100%;
+	min-height:100px;
+	background:green;
+}
+.left{
+	display:inline-block;
+	min-width:15%;
+	min-height:700px;
+	background:#f8f819;
+}
+.right{
+	display:inline-block;
+	min-width:15%;
+    max-width: 20%;
+	min-height:700px;
+	background:#f8f819;
+	float:right;
+}
+.bottom{
+	min-width:100%;
+	min-height:100px;
+	background:green;
+	bottom: 0;
+}
+.main{
+	min-height:500px;
+}
